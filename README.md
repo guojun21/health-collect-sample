@@ -1,0 +1,2 @@
+# health-collect-sample
+成功在android采集心率血氧等数据并在简单的uniapp界面显示
