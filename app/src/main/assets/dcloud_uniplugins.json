@@ -1,0 +1,22 @@
+{
+  "nativePlugins": [
+    {
+      "plugins": [
+        {
+          "type": "module",
+          "name": "ElitetycModulePlugin",
+          "class": "com.elitetyc.elitetyc_plugin.TestModulePlugin"
+        }
+      ]
+    },
+    {
+      "plugins": [
+        {
+          "type": "component",
+          "name": "ElitetycText",
+          "class": "com.elitetyc.elitetyc_plugin.TestComponentPlugin"
+        }
+      ]
+    }
+  ]
+}

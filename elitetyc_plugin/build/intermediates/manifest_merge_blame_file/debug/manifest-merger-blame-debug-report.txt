@@ -1,0 +1,13 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.elitetyc.elitetyc_plugin"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->H:\002projects\000project\0809\UniNativeTest-unchanged-001\elitetyc_plugin\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->H:\002projects\000project\0809\UniNativeTest-unchanged-001\elitetyc_plugin\src\main\AndroidManifest.xml
+10
+11</manifest>

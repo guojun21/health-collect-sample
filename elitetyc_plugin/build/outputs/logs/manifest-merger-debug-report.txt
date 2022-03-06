@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from H:\002projects\000project\0809\UniNativeTest-unchanged-001\elitetyc_plugin\src\main\AndroidManifest.xml:1:1-2:46
+INJECTED from H:\002projects\000project\0809\UniNativeTest-unchanged-001\elitetyc_plugin\src\main\AndroidManifest.xml:1:1-2:46
+INJECTED from H:\002projects\000project\0809\UniNativeTest-unchanged-001\elitetyc_plugin\src\main\AndroidManifest.xml:1:1-2:46
+INJECTED from H:\002projects\000project\0809\UniNativeTest-unchanged-001\elitetyc_plugin\src\main\AndroidManifest.xml:1:1-2:46
+INJECTED from H:\002projects\000project\0809\UniNativeTest-unchanged-001\elitetyc_plugin\src\main\AndroidManifest.xml:1:1-2:46
+INJECTED from H:\002projects\000project\0809\UniNativeTest-unchanged-001\elitetyc_plugin\src\main\AndroidManifest.xml:1:1-2:46
+INJECTED from H:\002projects\000project\0809\UniNativeTest-unchanged-001\elitetyc_plugin\src\main\AndroidManifest.xml:1:1-2:46
+	package
+		ADDED from H:\002projects\000project\0809\UniNativeTest-unchanged-001\elitetyc_plugin\src\main\AndroidManifest.xml:2:5-43
+		INJECTED from H:\002projects\000project\0809\UniNativeTest-unchanged-001\elitetyc_plugin\src\main\AndroidManifest.xml
+		INJECTED from H:\002projects\000project\0809\UniNativeTest-unchanged-001\elitetyc_plugin\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from H:\002projects\000project\0809\UniNativeTest-unchanged-001\elitetyc_plugin\src\main\AndroidManifest.xml
+		ADDED from H:\002projects\000project\0809\UniNativeTest-unchanged-001\elitetyc_plugin\src\main\AndroidManifest.xml:1:1-2:46
+		INJECTED from H:\002projects\000project\0809\UniNativeTest-unchanged-001\elitetyc_plugin\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from H:\002projects\000project\0809\UniNativeTest-unchanged-001\elitetyc_plugin\src\main\AndroidManifest.xml
+		ADDED from H:\002projects\000project\0809\UniNativeTest-unchanged-001\elitetyc_plugin\src\main\AndroidManifest.xml:1:1-2:46
+		INJECTED from H:\002projects\000project\0809\UniNativeTest-unchanged-001\elitetyc_plugin\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from H:\002projects\000project\0809\UniNativeTest-unchanged-001\elitetyc_plugin\src\main\AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from H:\002projects\000project\0809\UniNativeTest-unchanged-001\elitetyc_plugin\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from H:\002projects\000project\0809\UniNativeTest-unchanged-001\elitetyc_plugin\src\main\AndroidManifest.xml
+INJECTED from H:\002projects\000project\0809\UniNativeTest-unchanged-001\elitetyc_plugin\src\main\AndroidManifest.xml
+INJECTED from H:\002projects\000project\0809\UniNativeTest-unchanged-001\elitetyc_plugin\src\main\AndroidManifest.xml
+INJECTED from H:\002projects\000project\0809\UniNativeTest-unchanged-001\elitetyc_plugin\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from H:\002projects\000project\0809\UniNativeTest-unchanged-001\elitetyc_plugin\src\main\AndroidManifest.xml
+		ADDED from H:\002projects\000project\0809\UniNativeTest-unchanged-001\elitetyc_plugin\src\main\AndroidManifest.xml
+		INJECTED from H:\002projects\000project\0809\UniNativeTest-unchanged-001\elitetyc_plugin\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from H:\002projects\000project\0809\UniNativeTest-unchanged-001\elitetyc_plugin\src\main\AndroidManifest.xml
+		ADDED from H:\002projects\000project\0809\UniNativeTest-unchanged-001\elitetyc_plugin\src\main\AndroidManifest.xml
+		INJECTED from H:\002projects\000project\0809\UniNativeTest-unchanged-001\elitetyc_plugin\src\main\AndroidManifest.xml
